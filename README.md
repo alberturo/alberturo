@@ -12,12 +12,6 @@ Want to know more about me? [Check out my portfolio.](https://albertramirez.co/)
   
   <!-- Social Network -->
 <h1 align="center">
-<a href="https://www.instagram.com/albertramirezf/">
-  <img align="center" 
-       alt="Instagram" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
-  </a>
   
 <a href="https://www.linkedin.com/in/albert-ramirez-545871222/">
   <img align="center" 
